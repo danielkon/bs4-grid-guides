@@ -1,6 +1,9 @@
 # bs4-grid-guides
 Illustrator-like grid guides for Bootstrap 4
 
+## Links
+<a href="//raw.githubusercontent.com/danielkon/bs4-grid-guides/master/bs4grid.html" class="btn">Download .html</a>
+
 ## How to use
 Paste content of bs4grid.html after your &lt;body&gt; tag.
 
